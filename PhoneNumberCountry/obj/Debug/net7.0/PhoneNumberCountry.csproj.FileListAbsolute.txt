@@ -1,0 +1,12 @@
+C:\AccessBox\Tests\PhoneNumberCountryAPI\PhoneNumberCountry\bin\Debug\net7.0\PhoneNumberCountry.deps.json
+C:\AccessBox\Tests\PhoneNumberCountryAPI\PhoneNumberCountry\bin\Debug\net7.0\PhoneNumberCountry.dll
+C:\AccessBox\Tests\PhoneNumberCountryAPI\PhoneNumberCountry\bin\Debug\net7.0\PhoneNumberCountry.pdb
+C:\AccessBox\Tests\PhoneNumberCountryAPI\PhoneNumberCountry\obj\Debug\net7.0\PhoneNumberCountry.csproj.AssemblyReference.cache
+C:\AccessBox\Tests\PhoneNumberCountryAPI\PhoneNumberCountry\obj\Debug\net7.0\PhoneNumberCountry.GeneratedMSBuildEditorConfig.editorconfig
+C:\AccessBox\Tests\PhoneNumberCountryAPI\PhoneNumberCountry\obj\Debug\net7.0\PhoneNumberCountry.AssemblyInfoInputs.cache
+C:\AccessBox\Tests\PhoneNumberCountryAPI\PhoneNumberCountry\obj\Debug\net7.0\PhoneNumberCountry.AssemblyInfo.cs
+C:\AccessBox\Tests\PhoneNumberCountryAPI\PhoneNumberCountry\obj\Debug\net7.0\PhoneNumberCountry.csproj.CoreCompileInputs.cache
+C:\AccessBox\Tests\PhoneNumberCountryAPI\PhoneNumberCountry\obj\Debug\net7.0\PhoneNumberCountry.dll
+C:\AccessBox\Tests\PhoneNumberCountryAPI\PhoneNumberCountry\obj\Debug\net7.0\refint\PhoneNumberCountry.dll
+C:\AccessBox\Tests\PhoneNumberCountryAPI\PhoneNumberCountry\obj\Debug\net7.0\PhoneNumberCountry.pdb
+C:\AccessBox\Tests\PhoneNumberCountryAPI\PhoneNumberCountry\obj\Debug\net7.0\ref\PhoneNumberCountry.dll
