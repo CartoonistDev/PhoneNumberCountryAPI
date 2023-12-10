@@ -30,7 +30,7 @@ Before you begin, ensure you have met the following requirements:
 1. Clone this repository to your local machine:
 
    ```bash
-   git clone https://github.com/your-username/PhoneNumberCountryAPI.git
+   git clone https://github.com/CartoonistDev/PhoneNumberCountryAPI.git
 
 2. Open the project in your preferred code editor.
 
